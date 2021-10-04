@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace SurveyWebApi
+namespace SurveyWebApiUnitTest
 {
     [TestClass]
     public class UnitTest1
